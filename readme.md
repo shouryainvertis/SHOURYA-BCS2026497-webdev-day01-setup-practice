@@ -16,3 +16,5 @@ This is my first web development practice project.
 
 ## How to Run
 Open index.html in your browser.
+Day 01 assignment completed successfully.
+
